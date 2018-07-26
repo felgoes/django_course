@@ -1,0 +1,14 @@
+body{
+  background-color: url(http://st.motortrend.com/uploads/sites/10/2015/11/2015-infiniti-q70-37-sedan-angular-front.png);
+}
+
+div{
+  background-color: red;
+  border-color: blue;
+  border-width: 1px;
+  border-style: solid;
+}
+
+p{
+  color: yellow;
+}
