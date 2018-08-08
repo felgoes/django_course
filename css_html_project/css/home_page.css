@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+#text_inicial {
+  padding-top: 10px;
+  padding-bottom: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
+  text-align: center;
+  background-color: #001a33;
+  margin-right: 100px;
+  margin-left: 100px;
+  color: white;
+  font-family: 'TruenoRegular';
+}
+#fname {
+  weight: 300px;
+  height: 25px;
+}
+#lname {
+  weight: 300px;
+  height: 25px;
+}
+#email {
+  weight: 300px;
+  height: 25px;
+}
+
+#comfirm_button {
+  padding: 25px;
+  font-family: 'TruenoRegular';
+  border-radius: 15px;
+  background-color: #ff9900;
+}
