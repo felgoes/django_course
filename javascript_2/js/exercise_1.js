@@ -16,7 +16,7 @@ while (execute == 1) {
     command = ""
   } else if (command == "quit") {
     execute = 0
-    alert("Aplicativa encerrado")
+    alert("Aplicativo encerrado")
   } else if (command == "add") {
     new_aluno = prompt("Digite o nome do novo aluno:")
     aluno_array.push(new_aluno)
